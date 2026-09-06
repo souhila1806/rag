@@ -1,6 +1,6 @@
 ---
 title: The Water Cycle
-source: kb/water_cycle.md
+source: water_cycle.md
 date: 2024-02-15
 ---
 
